@@ -14,7 +14,8 @@ window.__BW_STATUS = {
         "the-vanishing-houses": null,
         "five-counties-block-by-block": null,
         "property-tax-insurance-the-hidden-housing-cost-explosion": null,
-        "rewriting-the-rural-narrative": null
+        "rewriting-the-rural-narrative": null,
+        "the-roof-can-wait": null
       }
     }
   }
