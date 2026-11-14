@@ -7,7 +7,7 @@ window.__BW_STATUS = {
       "created": "2026-10-31"
     },
     "fb40571720f57256c5d9466b80ebebd91ec56fe985b23d2a575b668c5c876309": {
-      "expires": "2026-12-30",
+      "expires": "2027-01-29",
       "revoked": false,
       "created": "2026-10-31",
       "free": {
